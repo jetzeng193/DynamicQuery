@@ -13,7 +13,7 @@
     <PackageId>PoweredSoft.DynamicQuery.System.Text.Json</PackageId>
     <Company>Poweredsoft</Company>
     <Authors>David Lebee</Authors>
-    <PackageVersion>2.1.1</PackageVersion>
+    <PackageVersion>2.1.2</PackageVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
