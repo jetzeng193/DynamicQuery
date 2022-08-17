@@ -65,6 +65,11 @@ namespace PoweredSoft.DynamicQuery.System.Text.Json
                 case JsonValueKind.True:
                     value = elm.GetBoolean();
                     break;
+
+                case JsonValueKind.False:
+                    value = elm.GetBoolean();
+                    break;
+
                 case JsonValueKind.Array:
                     var values = new List<object>();
                     var enumerateArray = elm.EnumerateArray();
